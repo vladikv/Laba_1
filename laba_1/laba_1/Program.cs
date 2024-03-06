@@ -10,11 +10,12 @@ namespace task_1
     {
         static void Main(string[] args)
         {
-            List<int> numbers = new List<int>() { 1, 2, 3, 4, 5, 6, 7 }; 
+            List<int> numbers = new List<int>() { 1, 2, 3, 4, 5, 6, 7 };
 
+            int temp = 0;
             for (int i = 0; i < numbers.Count - 1; i += 2)
             {
-                int temp = numbers[i];
+                temp = numbers[i];
                 numbers[i] = numbers[i + 1];
                 numbers[i + 1] = temp;
             }

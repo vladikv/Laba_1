@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\laba_1\\laba_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D47D59CC-4192-4587-9D27-24889A2F4073}|laba_1\\task_1.csproj|b:\\kpi\\\u043E\u043E\u043F\\semeseter_2\\laba_1\\laba_1\\laba_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D47D59CC-4192-4587-9D27-24889A2F4073}|laba_1\\task_1.csproj|solutionrelative:laba_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB4A64F3-6167-451A-9C62-7EF7CDD33C33}|task_2\\task_2.csproj|b:\\kpi\\\u043E\u043E\u043F\\semeseter_2\\laba_1\\laba_1\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB4A64F3-6167-451A-9C62-7EF7CDD33C33}|task_2\\task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D59CC-4192-4587-9D27-24889A2F4073}|laba_1\\task_1.csproj|b:\\kpi\\\u043E\u043E\u043F\\semeseter_2\\laba_1\\laba_1\\laba_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D59CC-4192-4587-9D27-24889A2F4073}|laba_1\\task_1.csproj|solutionrelative:laba_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB580C60-50D8-453C-97AD-C586461AEA48}|task_3\\task_3.csproj|b:\\kpi\\\u043E\u043E\u043F\\semeseter_2\\laba_1\\laba_1\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\laba_1\\laba_1\\task_2\\Program.cs",
-              "RelativeDocumentMoniker": "task_2\\Program.cs",
-              "ToolTip": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\laba_1\\laba_1\\task_2\\Program.cs",
-              "RelativeToolTip": "task_2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T06:43:02.731Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -45,22 +32,35 @@
               "RelativeDocumentMoniker": "task_3\\Program.cs",
               "ToolTip": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\laba_1\\laba_1\\task_3\\Program.cs",
               "RelativeToolTip": "task_3\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T06:36:22.515Z",
+              "WhenOpened": "2024-03-06T06:59:45.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\laba_1\\laba_1\\task_2\\Program.cs",
+              "RelativeDocumentMoniker": "task_2\\Program.cs",
+              "ToolTip": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\laba_1\\laba_1\\task_2\\Program.cs",
+              "RelativeToolTip": "task_2\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCUAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:58:59.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\laba_1\\laba_1\\laba_1\\Program.cs",
               "RelativeDocumentMoniker": "laba_1\\Program.cs",
               "ToolTip": "B:\\kpi\\\u041E\u041E\u041F\\semeseter_2\\laba_1\\laba_1\\laba_1\\Program.cs",
               "RelativeToolTip": "laba_1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T06:36:03.888Z",
+              "WhenOpened": "2024-03-06T06:51:03.785Z",
               "EditorCaption": ""
             }
           ]

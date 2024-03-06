@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+using System.Xml;
 
 namespace task_2
 {
@@ -32,12 +34,8 @@ namespace task_2
 
             var sortedDictionary = dictionary.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
 
-
-            Console.WriteLine("Вiдсортований словник:");
-            foreach (var kvp in sortedDictionary)
-            {
-                Console.WriteLine($"{kvp.Key}: {kvp.Value}");
-            }
+            string json = JsonSerializer.Serialize<Dictionary<string,int>>(sortedDictionary);
+            File.WriteAllText("B:\\kpi\\ООП\\semeseter_2\\laba_1\\laba_1\\task_2\\result.json", json);
         }
     }
 }
