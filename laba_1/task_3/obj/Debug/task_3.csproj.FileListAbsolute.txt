@@ -1,0 +1,7 @@
+B:\kpi\ООП\semeseter_2\laba_1\laba_1\task_3\bin\Debug\task_3.exe.config
+B:\kpi\ООП\semeseter_2\laba_1\laba_1\task_3\bin\Debug\task_3.exe
+B:\kpi\ООП\semeseter_2\laba_1\laba_1\task_3\bin\Debug\task_3.pdb
+B:\kpi\ООП\semeseter_2\laba_1\laba_1\task_3\obj\Debug\task_3.csproj.AssemblyReference.cache
+B:\kpi\ООП\semeseter_2\laba_1\laba_1\task_3\obj\Debug\task_3.csproj.CoreCompileInputs.cache
+B:\kpi\ООП\semeseter_2\laba_1\laba_1\task_3\obj\Debug\task_3.exe
+B:\kpi\ООП\semeseter_2\laba_1\laba_1\task_3\obj\Debug\task_3.pdb
